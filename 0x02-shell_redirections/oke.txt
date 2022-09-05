@@ -1,0 +1,1 @@
+-rw-r--r-- 1 root root 18 Sep  5 04:58 oke
